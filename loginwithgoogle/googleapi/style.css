@@ -1,0 +1,13 @@
+button{
+    color: whitesmoke;
+    background-color: orangered;
+    padding: auto;
+    width: 200px;
+    height: 40px;
+    border: none;
+
+}
+button a{
+    text-decoration: none;
+    color: aliceblue;
+}

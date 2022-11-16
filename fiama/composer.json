@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "files":[
+            "function/register.php",
+            "function/login.php",
+            "function/state.php",
+            "function.php"
+        ]
+    },
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
